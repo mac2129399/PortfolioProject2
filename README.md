@@ -11,12 +11,13 @@ My goal was to practice:
   5. Building a clean Tableau dashboard
 
 
-Tools Used
+Tools I Used
   1. Python: pandas, seaborn, matplotlib
   2. SQL: SQLite
   3. Tableau Public: creating my dashboard
 
 Synthetic Dataset
+
 File: Protocol_Deviation_Table.csv  
 Rows: 50
 Sites: 10

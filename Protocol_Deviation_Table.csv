@@ -1,0 +1,51 @@
+Deviation_ID,Site_ID,Location,Date,Deviation_Type,Category,Visit,Notes
+1,SITE01,"Phoenix, AZ",3/12/2026,Minor,Out-of-window visit,Week 4,Visit occurred 3 days late.
+2,SITE02,"Dallas, TX",2/28/2026,Major,Consent issue,Screening,Missing signature on consent form.
+3,SITE03,"Chicago, IL",4/5/2026,Minor,Missed visit,Week 8,Subject unable to attend.
+4,SITE04,"Denver, CO",3/18/2026,Minor,Missing lab,Week 2,Lab sample not collected.
+5,SITE05,"Seattle, WA",5/1/2026,Major,Incorrect dose,Week 12,Higher dose than protocol.
+6,SITE06,"Atlanta, GA",3/10/2026,Minor,Out-of-window visit,Week 4,Visit delayed due to conflict.
+7,SITE07,"Miami, FL",2/20/2026,Minor,Missing lab,Week 1,Lab equipment unavailable.
+8,SITE08,"Boston, MA",4/22/2026,Major,Consent issue,Week 8,Wrong consent version used.
+9,SITE09,"San Diego, CA",3/29/2026,Minor,Missed visit,Week 6,Subject forgot appointment.
+10,SITE10,"Portland, OR",5/3/2026,Minor,Out-of-window visit,Week 12,Visit occurred 2 days late.
+11,SITE01,"Phoenix, AZ",3/14/2026,Minor,Missing lab,Week 4,Lab not processed.
+12,SITE02,"Dallas, TX",4/9/2026,Major,Incorrect dose,Week 8,Dose miscalculated.
+13,SITE03,"Chicago, IL",3/2/2026,Minor,Missed visit,Week 2,Transportation issue.
+14,SITE04,"Denver, CO",2/19/2026,Minor,Out-of-window visit,Week 1,Visit early by 1 day.
+15,SITE05,"Seattle, WA",3/30/2026,Major,Consent issue,Week 6,Missing initials on page 2.
+16,SITE06,"Atlanta, GA",5/4/2026,Minor,Missing lab,Week 12,Lab kit damaged.
+17,SITE07,"Miami, FL",4/11/2026,Minor,Out-of-window visit,Week 8,Visit occurred 4 days late.
+18,SITE08,"Boston, MA",3/15/2026,Major,Incorrect dose,Week 4,Wrong vial used.
+19,SITE09,"San Diego, CA",3/5/2026,Minor,Missed visit,Week 2,Subject sick.
+20,SITE10,"Portland, OR",2/21/2026,Minor,Missing lab,Week 1,Lab sample mislabeled.
+21,SITE01,"Phoenix, AZ",4/6/2026,Minor,Out-of-window visit,Week 8,Visit occurred 1 day late.
+22,SITE02,"Dallas, TX",3/27/2026,Major,Consent issue,Week 6,Missing witness signature.
+23,SITE03,"Chicago, IL",5/2/2026,Minor,Missing lab,Week 12,Lab not drawn.
+24,SITE04,"Denver, CO",3/13/2026,Minor,Missed visit,Week 4,Subject unavailable.
+25,SITE05,"Seattle, WA",3/1/2026,Major,Incorrect dose,Week 2,Double dose given.
+26,SITE06,"Atlanta, GA",4/10/2026,Minor,Out-of-window visit,Week 8,Visit early by 2 days.
+27,SITE07,"Miami, FL",3/28/2026,Minor,Missing lab,Week 6,Lab machine error.
+28,SITE08,"Boston, MA",2/18/2026,Major,Consent issue,Week 1,Missing required initials.
+29,SITE09,"San Diego, CA",5/5/2026,Minor,Missed visit,Week 12,Subject traveling.
+30,SITE10,"Portland, OR",3/11/2026,Minor,Out-of-window visit,Week 4,Visit occurred 3 days early.
+31,SITE01,"Phoenix, AZ",3/3/2026,Minor,Missing lab,Week 2,Lab sample spilled.
+32,SITE02,"Dallas, TX",4/7/2026,Major,Incorrect dose,Week 8,Wrong syringe used.
+33,SITE03,"Chicago, IL",3/26/2026,Minor,Missed visit,Week 6,Subject forgot.
+34,SITE04,"Denver, CO",5/6/2026,Minor,Out-of-window visit,Week 12,Visit occurred 1 day late.
+35,SITE05,"Seattle, WA",2/17/2026,Major,Consent issue,Week 1,Consent missing page.
+36,SITE06,"Atlanta, GA",3/16/2026,Minor,Missing lab,Week 4,Lab kit expired.
+37,SITE07,"Miami, FL",4/12/2026,Minor,Out-of-window visit,Week 8,Visit occurred 5 days late.
+38,SITE08,"Boston, MA",3/4/2026,Major,Incorrect dose,Week 2,Wrong concentration.
+39,SITE09,"San Diego, CA",2/22/2026,Minor,Missed visit,Week 1,Subject no-show.
+40,SITE10,"Portland, OR",3/27/2026,Minor,Missing lab,Week 6,Lab mislabeled.
+41,SITE01,"Phoenix, AZ",5/7/2026,Minor,Out-of-window visit,Week 12,Visit occurred 2 days late.
+42,SITE02,"Dallas, TX",3/14/2026,Major,Consent issue,Week 4,Wrong consent version.
+43,SITE03,"Chicago, IL",4/8/2026,Minor,Missing lab,Week 8,Lab not processed.
+44,SITE04,"Denver, CO",3/4/2026,Minor,Missed visit,Week 2,Subject unavailable.
+45,SITE05,"Seattle, WA",3/25/2026,Major,Incorrect dose,Week 6,Extra dose given.
+46,SITE06,"Atlanta, GA",2/23/2026,Minor,Out-of-window visit,Week 1,Visit early by 1 day.
+47,SITE07,"Miami, FL",5/8/2026,Minor,Missing lab,Week 12,Lab kit missing.
+48,SITE08,"Boston, MA",3/17/2026,Major,Consent issue,Week 4,Missing initials.
+49,SITE09,"San Diego, CA",4/9/2026,Minor,Missed visit,Week 8,Subject sick.
+50,SITE10,"Portland, OR",3/2/2026,Minor,Out-of-window visit,Week 2,Visit occurred 2 days early.
